@@ -2,4 +2,4 @@
 
 Some text
 
-## This is arigato branch -- ARIGATO GOSAIMASU
+## This is arigato branch -- ARIGATO 
